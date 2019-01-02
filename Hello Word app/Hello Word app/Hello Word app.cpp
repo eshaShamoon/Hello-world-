@@ -5,7 +5,7 @@
 #include<iostream>
 using namespace std;
 
-void swap(int &a, int &b)
+void swap2(int &a, int &b)
 {
 	int c = a;
 	a = b;
